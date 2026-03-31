@@ -3,7 +3,7 @@ from datetime import datetime
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, filters, ContextTypes
 
-TOKEN = os.getenv("8621871224:AAEBjiD4pth2A8ViDnPHml1Rvm5NCu_MzZo")
+TOKEN = os.getenv("8618679330:AAEoaaQaz9dgolrSydJkOj6MB2OagtrtCQI")
 
 gastos = []
 
